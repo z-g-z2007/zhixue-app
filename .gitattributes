@@ -1,4 +1,5 @@
-*.dart linguist-vendored=true
-*.html linguist-vendored=true
-*.js linguist-vendored=true
+lib/** linguist-vendored=true
+android/** linguist-vendored=true
+assets/** linguist-vendored=true
 *.java linguist-detectable=true
+
