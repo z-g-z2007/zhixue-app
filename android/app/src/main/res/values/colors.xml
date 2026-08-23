@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用启动 / 加载背景色：浅蓝白，与 Flutter 端主背景一致 -->
+    <color name="launch_bg">#FFEDF4FC</color>
+    <color name="normal_bg">#FFEDF4FC</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 启动画面：完全透明底色 + 全屏启动图 qidong.png -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 透明背景，避免任何非图片颜色干扰 -->
+    <item android:drawable="@android:color/transparent" />
+    <item>
+        <bitmap
+            android:gravity="fill"
+            android:src="@drawable/qidong" />
+    </item>
+</layer-list>
